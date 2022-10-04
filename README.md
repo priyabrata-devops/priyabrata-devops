@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyabrata Sahoo
-- 👀 I’m interested in DevOps
+- 👀 I’m interested to join as DevOps Engineer
 - 🌱 I’m currently learning DevOps With AWS
 - 📫 Reach me ...
 - 📱 +91 9853321447
