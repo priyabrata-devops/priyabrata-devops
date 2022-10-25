@@ -2,7 +2,7 @@
 - 👀 I’m interested to join as DevOps Engineer
 - 🌱 I’m currently learning DevOps With AWS
 - 📫 Reach me ...
-- 📱 +91 9853321447
+- 📱 +91 9583321447
 - 📧 priyabratapinku7@gmail.com
 
 <!---
