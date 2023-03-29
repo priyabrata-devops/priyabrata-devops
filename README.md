@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Priyabrata Sahoo
-- 👀 I’m interested to join as DevOps Engineer
 - 🌱 I’m currently working as Jr. Devops Engineer in Elsner Technologies Pvt Ltd
 - 📫 Reach me ...
 - 📱 +91 9583321447
