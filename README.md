@@ -13,7 +13,7 @@ I'm Priyabrata Sahoo, a dynamic Junior DevOps Engineer at Elsner Technologies, p
 
 ### Projects:
 - [Project X](link): Implemented CI/CD pipeline using Jenkins and Docker for seamless deployment.
-- [Project Y](link): Managed infrastructure on AWS using Terraform for scalability and cost-effectiveness.
+- [Django Demo Project With Docker](https://github.com/priyabrata-sahoo/django_test_project): A sample Django project showcasing the use of Docker for containerized development environments.
 
 ### Let's Connect:
 - [LinkedIn](https://linkedin.com/in/iampriyabrata/)
