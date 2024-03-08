@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Priyabrata Sahoo, a dynamic Junior DevOps Engineer at Elsner Technologies, passionate about leveraging cloud technologies and CI/CD pipelines to streamline development processes.
+I'm Priyabrata Sahoo, Junior DevOps Engineer at Elsner Technologies, passionate about leveraging cloud technologies and CI/CD pipelines to streamline development processes.
 
 ### Skills & Expertise:
 - Cloud Technologies (AWS, GCP)
