@@ -16,7 +16,7 @@ I'm Priyabrata Sahoo, Junior DevOps Engineer at Elsner Technologies, passionate 
 - [Django Demo Project With Docker](https://github.com/priyabrata-sahoo/django_test_project): A sample Django project showcasing the use of Docker for containerized development environments.
 
 ### Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/iampriyabrata/)
+- [LinkedIn](https://www.linkedin.com/in/priya-brata-sahoo/)
 - [Personal Website](https://linktr.ee/priyabrata_sahoo)
 
 Feel free to reach out for collaborations or discussions on DevOps, cloud technologies, or anything tech-related! 😊
